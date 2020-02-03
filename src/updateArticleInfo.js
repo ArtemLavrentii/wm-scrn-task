@@ -21,7 +21,7 @@ function buildTableOfContent(entries, pageBaseUrl, indexOffset = 0) {
 
       const subTable = buildTableOfContent(entries, pageBaseUrl, i);
 
-      i = subTable.lastIndex;
+      i = subTable.lastIndex - 1;
       latestChild.appendChild(el('ol', {}, subTable.childs));
     } else {
       const href = `${pageBaseUrl}#${anchor}`;
