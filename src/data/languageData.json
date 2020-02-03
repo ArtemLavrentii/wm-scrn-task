@@ -4,7 +4,7 @@
     "No.": 166,
     "Name": "Adlam",
     "Alias[f]": "Adlam",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 9,
     "Char­acters": 88,
     "Remark": ""
@@ -14,7 +14,7 @@
     "No.": 439,
     "Name": "Afaka",
     "Alias[f]": "",
-    "Direc­tion": "Varies",
+    "Direction": "Varies",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode, proposal under review by the Unicode Technical Committee[8][9]"
@@ -24,7 +24,7 @@
     "No.": 239,
     "Name": "Caucasian Albanian",
     "Alias[f]": "Caucasian Albanian",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 53,
     "Remark": "Ancient/historic"
@@ -34,7 +34,7 @@
     "No.": 338,
     "Name": "Ahom, Tai Ahom",
     "Alias[f]": "Ahom",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 8,
     "Char­acters": 58,
     "Remark": "Ancient/historic"
@@ -44,7 +44,7 @@
     "No.": 160,
     "Name": "Arabic",
     "Alias[f]": "Arabic",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 1,
     "Char­acters": "1,281",
     "Remark": ""
@@ -54,7 +54,7 @@
     "No.": 161,
     "Name": "Arabic (Nastaliq variant)",
     "Alias[f]": "",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Typographic variant of Arabic"
@@ -64,7 +64,7 @@
     "No.": 124,
     "Name": "Imperial Aramaic",
     "Alias[f]": "Imperial Aramaic",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 5.2,
     "Char­acters": 31,
     "Remark": "Ancient/historic"
@@ -74,7 +74,7 @@
     "No.": 230,
     "Name": "Armenian",
     "Alias[f]": "Armenian",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 95,
     "Remark": ""
@@ -84,7 +84,7 @@
     "No.": 134,
     "Name": "Avestan",
     "Alias[f]": "Avestan",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 5.2,
     "Char­acters": 61,
     "Remark": "Ancient/historic"
@@ -94,7 +94,7 @@
     "No.": 360,
     "Name": "Balinese",
     "Alias[f]": "Balinese",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5,
     "Char­acters": 121,
     "Remark": ""
@@ -104,7 +104,7 @@
     "No.": 435,
     "Name": "Bamum",
     "Alias[f]": "Bamum",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.2,
     "Char­acters": 657,
     "Remark": ""
@@ -114,7 +114,7 @@
     "No.": 259,
     "Name": "Bassa Vah",
     "Alias[f]": "Bassa Vah",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 36,
     "Remark": "Ancient/historic"
@@ -124,7 +124,7 @@
     "No.": 365,
     "Name": "Batak",
     "Alias[f]": "Batak",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 6,
     "Char­acters": 56,
     "Remark": ""
@@ -134,7 +134,7 @@
     "No.": 325,
     "Name": "Bengali (Bangla)",
     "Alias[f]": "Bengali",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 96,
     "Remark": ""
@@ -144,7 +144,7 @@
     "No.": 334,
     "Name": "Bhaiksuki",
     "Alias[f]": "Bhaiksuki",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 9,
     "Char­acters": 97,
     "Remark": "Ancient/historic"
@@ -154,7 +154,7 @@
     "No.": 550,
     "Name": "Blissymbols",
     "Alias[f]": "",
-    "Direc­tion": "Varies",
+    "Direction": "Varies",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode, proposal in initial/exploratory stage[8]"
@@ -164,7 +164,7 @@
     "No.": 285,
     "Name": "Bopomofo",
     "Alias[f]": "Bopomofo",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 72,
     "Remark": ""
@@ -174,7 +174,7 @@
     "No.": 300,
     "Name": "Brahmi",
     "Alias[f]": "Brahmi",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 6,
     "Char­acters": 109,
     "Remark": "Ancient/historic"
@@ -184,7 +184,7 @@
     "No.": 570,
     "Name": "Braille",
     "Alias[f]": "Braille",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3,
     "Char­acters": 256,
     "Remark": ""
@@ -194,7 +194,7 @@
     "No.": 367,
     "Name": "Buginese",
     "Alias[f]": "Buginese",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 4.1,
     "Char­acters": 30,
     "Remark": ""
@@ -204,7 +204,7 @@
     "No.": 372,
     "Name": "Buhid",
     "Alias[f]": "Buhid",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3.2,
     "Char­acters": 20,
     "Remark": ""
@@ -214,7 +214,7 @@
     "No.": 349,
     "Name": "Chakma",
     "Alias[f]": "Chakma",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 6.1,
     "Char­acters": 70,
     "Remark": ""
@@ -224,7 +224,7 @@
     "No.": 440,
     "Name": "Unified Canadian Aboriginal Syllabics",
     "Alias[f]": "Canadian Aboriginal",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3,
     "Char­acters": 710,
     "Remark": ""
@@ -234,7 +234,7 @@
     "No.": 201,
     "Name": "Carian",
     "Alias[f]": "Carian",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.1,
     "Char­acters": 49,
     "Remark": "Ancient/historic"
@@ -244,7 +244,7 @@
     "No.": 358,
     "Name": "Cham",
     "Alias[f]": "Cham",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.1,
     "Char­acters": 83,
     "Remark": ""
@@ -254,7 +254,7 @@
     "No.": 445,
     "Name": "Cherokee",
     "Alias[f]": "Cherokee",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3,
     "Char­acters": 172,
     "Remark": ""
@@ -264,7 +264,7 @@
     "No.": 109,
     "Name": "Chorasmian",
     "Alias[f]": "",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -274,7 +274,7 @@
     "No.": 291,
     "Name": "Cirth",
     "Alias[f]": "",
-    "Direc­tion": "Varies",
+    "Direction": "Varies",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -284,7 +284,7 @@
     "No.": 204,
     "Name": "Coptic",
     "Alias[f]": "Coptic",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 137,
     "Remark": "Ancient/historic, Disunified from Greek in 4.1"
@@ -294,7 +294,7 @@
     "No.": 402,
     "Name": "Cypro-Minoan",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -304,7 +304,7 @@
     "No.": 403,
     "Name": "Cypriot syllabary",
     "Alias[f]": "Cypriot",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 4,
     "Char­acters": 55,
     "Remark": "Ancient/historic"
@@ -314,7 +314,7 @@
     "No.": 220,
     "Name": "Cyrillic",
     "Alias[f]": "Cyrillic",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 443,
     "Remark": ""
@@ -324,7 +324,7 @@
     "No.": 221,
     "Name": "Cyrillic (Old Church Slavonic variant)",
     "Alias[f]": "",
-    "Direc­tion": "Varies",
+    "Direction": "Varies",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Ancient/historic, typographic variant of Cyrillic"
@@ -334,7 +334,7 @@
     "No.": 315,
     "Name": "Devanagari (Nagari)",
     "Alias[f]": "Devanagari",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 154,
     "Remark": ""
@@ -344,7 +344,7 @@
     "No.": 342,
     "Name": "Dives Akuru",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -354,7 +354,7 @@
     "No.": 328,
     "Name": "Dogra",
     "Alias[f]": "Dogra",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 11,
     "Char­acters": 60,
     "Remark": "Ancient/historic"
@@ -364,7 +364,7 @@
     "No.": 250,
     "Name": "Deseret (Mormon)",
     "Alias[f]": "Deseret",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3.1,
     "Char­acters": 80,
     "Remark": ""
@@ -374,7 +374,7 @@
     "No.": 755,
     "Name": "Duployan shorthand, Duployan stenography",
     "Alias[f]": "Duployan",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 143,
     "Remark": ""
@@ -384,7 +384,7 @@
     "No.": "070",
     "Name": "Egyptian demotic",
     "Alias[f]": "",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -394,7 +394,7 @@
     "No.": "060",
     "Name": "Egyptian hieratic",
     "Alias[f]": "",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -404,7 +404,7 @@
     "No.": "050",
     "Name": "Egyptian hieroglyphs",
     "Alias[f]": "Egyptian Hieroglyphs",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.2,
     "Char­acters": "1,080",
     "Remark": "Ancient/historic"
@@ -414,7 +414,7 @@
     "No.": 226,
     "Name": "Elbasan",
     "Alias[f]": "Elbasan",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 40,
     "Remark": "Ancient/historic"
@@ -424,7 +424,7 @@
     "No.": 128,
     "Name": "Elymaic",
     "Alias[f]": "Elymaic",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 12,
     "Char­acters": 23,
     "Remark": "Ancient/historic"
@@ -434,7 +434,7 @@
     "No.": 430,
     "Name": "Ethiopic (Geʻez)",
     "Alias[f]": "Ethiopic",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3,
     "Char­acters": 495,
     "Remark": ""
@@ -444,7 +444,7 @@
     "No.": 241,
     "Name": "Khutsuri (Asomtavruli and Nuskhuri)",
     "Alias[f]": "Georgian",
-    "Direc­tion": "Varies",
+    "Direction": "Varies",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Unicode groups Geok and Geor together as \"Georgian"
@@ -454,7 +454,7 @@
     "No.": 240,
     "Name": "Georgian (Mkhedruli and Mtavruli)",
     "Alias[f]": "Georgian",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 173,
     "Remark": "For Unicode, see also Geok"
@@ -464,7 +464,7 @@
     "No.": 225,
     "Name": "Glagolitic",
     "Alias[f]": "Glagolitic",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 4.1,
     "Char­acters": 132,
     "Remark": "Ancient/historic"
@@ -474,7 +474,7 @@
     "No.": 312,
     "Name": "Gunjala Gondi",
     "Alias[f]": "Gunjala Gondi",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 11,
     "Char­acters": 63,
     "Remark": ""
@@ -484,7 +484,7 @@
     "No.": 313,
     "Name": "Masaram Gondi",
     "Alias[f]": "Masaram Gondi",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 10,
     "Char­acters": 75,
     "Remark": ""
@@ -494,7 +494,7 @@
     "No.": 206,
     "Name": "Gothic",
     "Alias[f]": "Gothic",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3.1,
     "Char­acters": 27,
     "Remark": "Ancient/historic"
@@ -504,7 +504,7 @@
     "No.": 343,
     "Name": "Grantha",
     "Alias[f]": "Grantha",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 85,
     "Remark": "Ancient/historic"
@@ -514,7 +514,7 @@
     "No.": 200,
     "Name": "Greek",
     "Alias[f]": "Greek",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 518,
     "Remark": "Sometimes expressed as boustrophedon (mirroring of alternate lines rather than purely left-to-right)"
@@ -524,7 +524,7 @@
     "No.": 320,
     "Name": "Gujarati",
     "Alias[f]": "Gujarati",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 91,
     "Remark": ""
@@ -534,7 +534,7 @@
     "No.": 310,
     "Name": "Gurmukhi",
     "Alias[f]": "Gurmukhi",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 80,
     "Remark": ""
@@ -544,7 +544,7 @@
     "No.": 503,
     "Name": "Han with Bopomofo (alias for Han + Bopomofo)",
     "Alias[f]": "",
-    "Direc­tion": "Varies",
+    "Direction": "Varies",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "See Hani, Bopo"
@@ -554,7 +554,7 @@
     "No.": 286,
     "Name": "Hangul (Hangŭl, Hangeul)",
     "Alias[f]": "Hangul",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": "11,739",
     "Remark": "Hangul syllables relocated in 2.0"
@@ -564,7 +564,7 @@
     "No.": 500,
     "Name": "Han (Hanzi, Kanji, Hanja)",
     "Alias[f]": "Han",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": "89,233",
     "Remark": ""
@@ -574,7 +574,7 @@
     "No.": 371,
     "Name": "Hanunoo (Hanunóo)",
     "Alias[f]": "Hanunoo",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3.2,
     "Char­acters": 21,
     "Remark": ""
@@ -584,7 +584,7 @@
     "No.": 501,
     "Name": "Han (Simplified variant)",
     "Alias[f]": "",
-    "Direc­tion": "Varies",
+    "Direction": "Varies",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Subset Hani"
@@ -594,7 +594,7 @@
     "No.": 502,
     "Name": "Han (Traditional variant)",
     "Alias[f]": "",
-    "Direc­tion": "Varies",
+    "Direction": "Varies",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Subset Hani"
@@ -604,7 +604,7 @@
     "No.": 127,
     "Name": "Hatran",
     "Alias[f]": "Hatran",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 8,
     "Char­acters": 26,
     "Remark": "Ancient/historic"
@@ -614,7 +614,7 @@
     "No.": 125,
     "Name": "Hebrew",
     "Alias[f]": "Hebrew",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 1,
     "Char­acters": 134,
     "Remark": ""
@@ -624,7 +624,7 @@
     "No.": 410,
     "Name": "Hiragana",
     "Alias[f]": "Hiragana",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 379,
     "Remark": ""
@@ -634,7 +634,7 @@
     "No.": "080",
     "Name": "Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)",
     "Alias[f]": "Anatolian Hieroglyphs",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 8,
     "Char­acters": 583,
     "Remark": "Ancient/historic"
@@ -644,7 +644,7 @@
     "No.": 450,
     "Name": "Pahawh Hmong",
     "Alias[f]": "Pahawh Hmong",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 127,
     "Remark": ""
@@ -654,7 +654,7 @@
     "No.": 451,
     "Name": "Nyiakeng Puachue Hmong",
     "Alias[f]": "Nyiakeng Puachue Hmong",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 12,
     "Char­acters": 71,
     "Remark": ""
@@ -664,7 +664,7 @@
     "No.": 412,
     "Name": "Japanese syllabaries (alias for Hiragana + Katakana)",
     "Alias[f]": "Katakana or Hiragana",
-    "Direc­tion": "Varies",
+    "Direction": "Varies",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "See Hira, Kana"
@@ -674,7 +674,7 @@
     "No.": 176,
     "Name": "Old Hungarian (Hungarian Runic)",
     "Alias[f]": "Old Hungarian",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 8,
     "Char­acters": 108,
     "Remark": "Ancient/historic"
@@ -684,7 +684,7 @@
     "No.": 610,
     "Name": "Indus (Harappan)",
     "Alias[f]": "",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode, proposal in initial/exploratory stage[8]"
@@ -694,7 +694,7 @@
     "No.": 210,
     "Name": "Old Italic (Etruscan, Oscan, etc.)",
     "Alias[f]": "Old Italic",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3.1,
     "Char­acters": 39,
     "Remark": "Ancient/historic"
@@ -704,7 +704,7 @@
     "No.": 284,
     "Name": "Jamo (alias for Jamo subset of Hangul)",
     "Alias[f]": "",
-    "Direc­tion": "Varies",
+    "Direction": "Varies",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Subset Hang"
@@ -714,7 +714,7 @@
     "No.": 361,
     "Name": "Javanese",
     "Alias[f]": "Javanese",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.2,
     "Char­acters": 90,
     "Remark": ""
@@ -724,7 +724,7 @@
     "No.": 413,
     "Name": "Japanese (alias for Han + Hiragana + Katakana)",
     "Alias[f]": "",
-    "Direc­tion": "Varies",
+    "Direction": "Varies",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "See Hani, Hira and Kana"
@@ -734,7 +734,7 @@
     "No.": 510,
     "Name": "Jurchen",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -744,7 +744,7 @@
     "No.": 357,
     "Name": "Kayah Li",
     "Alias[f]": "Kayah Li",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.1,
     "Char­acters": 47,
     "Remark": ""
@@ -754,7 +754,7 @@
     "No.": 411,
     "Name": "Katakana",
     "Alias[f]": "Katakana",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 304,
     "Remark": ""
@@ -764,7 +764,7 @@
     "No.": 305,
     "Name": "Kharoshthi",
     "Alias[f]": "Kharoshthi",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 4.1,
     "Char­acters": 68,
     "Remark": "Ancient/historic"
@@ -774,7 +774,7 @@
     "No.": 355,
     "Name": "Khmer",
     "Alias[f]": "Khmer",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3,
     "Char­acters": 146,
     "Remark": ""
@@ -784,7 +784,7 @@
     "No.": 322,
     "Name": "Khojki",
     "Alias[f]": "Khojki",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 62,
     "Remark": "Ancient/historic"
@@ -794,7 +794,7 @@
     "No.": 505,
     "Name": "Khitan large script",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -804,7 +804,7 @@
     "No.": 288,
     "Name": "Khitan small script",
     "Alias[f]": "",
-    "Direc­tion": "T-to-B",
+    "Direction": "T-to-B",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -814,7 +814,7 @@
     "No.": 345,
     "Name": "Kannada",
     "Alias[f]": "Kannada",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 89,
     "Remark": ""
@@ -824,7 +824,7 @@
     "No.": 287,
     "Name": "Korean (alias for Hangul + Han)",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "See Hani and Hang"
@@ -834,7 +834,7 @@
     "No.": 436,
     "Name": "Kpelle",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode, proposal in initial/exploratory stage[8]"
@@ -844,7 +844,7 @@
     "No.": 317,
     "Name": "Kaithi",
     "Alias[f]": "Kaithi",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.2,
     "Char­acters": 67,
     "Remark": "Ancient/historic"
@@ -854,7 +854,7 @@
     "No.": 351,
     "Name": "Tai Tham (Lanna)",
     "Alias[f]": "Tai Tham",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.2,
     "Char­acters": 127,
     "Remark": ""
@@ -864,7 +864,7 @@
     "No.": 356,
     "Name": "Lao",
     "Alias[f]": "Lao",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 82,
     "Remark": ""
@@ -874,7 +874,7 @@
     "No.": 217,
     "Name": "Latin (Fraktur variant)",
     "Alias[f]": "",
-    "Direc­tion": "Varies",
+    "Direction": "Varies",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Typographic variant of Latin"
@@ -884,7 +884,7 @@
     "No.": 216,
     "Name": "Latin (Gaelic variant)",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Typographic variant of Latin"
@@ -894,7 +894,7 @@
     "No.": 215,
     "Name": "Latin",
     "Alias[f]": "Latin",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": "1,366",
     "Remark": "See Latin script in Unicode"
@@ -904,7 +904,7 @@
     "No.": 364,
     "Name": "Leke",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -914,7 +914,7 @@
     "No.": 335,
     "Name": "Lepcha (Róng)",
     "Alias[f]": "Lepcha",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.1,
     "Char­acters": 74,
     "Remark": ""
@@ -924,7 +924,7 @@
     "No.": 336,
     "Name": "Limbu",
     "Alias[f]": "Limbu",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 4,
     "Char­acters": 68,
     "Remark": ""
@@ -934,7 +934,7 @@
     "No.": 400,
     "Name": "Linear A",
     "Alias[f]": "Linear A",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 341,
     "Remark": "Ancient/historic"
@@ -944,7 +944,7 @@
     "No.": 401,
     "Name": "Linear B",
     "Alias[f]": "Linear B",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 4,
     "Char­acters": 211,
     "Remark": "Ancient/historic"
@@ -954,7 +954,7 @@
     "No.": 399,
     "Name": "Lisu (Fraser)",
     "Alias[f]": "Lisu",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.2,
     "Char­acters": 48,
     "Remark": ""
@@ -964,7 +964,7 @@
     "No.": 437,
     "Name": "Loma",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode, proposal in initial/exploratory stage[8]"
@@ -974,7 +974,7 @@
     "No.": 202,
     "Name": "Lycian",
     "Alias[f]": "Lycian",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.1,
     "Char­acters": 29,
     "Remark": "Ancient/historic"
@@ -984,7 +984,7 @@
     "No.": 116,
     "Name": "Lydian",
     "Alias[f]": "Lydian",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 5.1,
     "Char­acters": 27,
     "Remark": "Ancient/historic"
@@ -994,7 +994,7 @@
     "No.": 314,
     "Name": "Mahajani",
     "Alias[f]": "Mahajani",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 39,
     "Remark": "Ancient/historic"
@@ -1004,7 +1004,7 @@
     "No.": 366,
     "Name": "Makasar",
     "Alias[f]": "Makasar",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 11,
     "Char­acters": 25,
     "Remark": "Ancient/historic"
@@ -1014,7 +1014,7 @@
     "No.": 140,
     "Name": "Mandaic, Mandaean",
     "Alias[f]": "Mandaic",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 6,
     "Char­acters": 29,
     "Remark": ""
@@ -1024,7 +1024,7 @@
     "No.": 139,
     "Name": "Manichaean",
     "Alias[f]": "Manichaean",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 7,
     "Char­acters": 51,
     "Remark": "Ancient/historic"
@@ -1034,7 +1034,7 @@
     "No.": 332,
     "Name": "Marchen",
     "Alias[f]": "Marchen",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 9,
     "Char­acters": 68,
     "Remark": "Ancient/historic"
@@ -1044,7 +1044,7 @@
     "No.": "090",
     "Name": "Mayan hieroglyphs",
     "Alias[f]": "",
-    "Direc­tion": "",
+    "Direction": "",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -1054,7 +1054,7 @@
     "No.": 265,
     "Name": "Medefaidrin (Oberi Okaime, Oberi Ɔkaimɛ)",
     "Alias[f]": "Medefaidrin",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 11,
     "Char­acters": 91,
     "Remark": ""
@@ -1064,7 +1064,7 @@
     "No.": 438,
     "Name": "Mende Kikakui",
     "Alias[f]": "Mende Kikakui",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 7,
     "Char­acters": 213,
     "Remark": ""
@@ -1074,7 +1074,7 @@
     "No.": 101,
     "Name": "Meroitic Cursive",
     "Alias[f]": "Meroitic Cursive",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 6.1,
     "Char­acters": 90,
     "Remark": "Ancient/historic"
@@ -1084,7 +1084,7 @@
     "No.": 100,
     "Name": "Meroitic Hieroglyphs",
     "Alias[f]": "Meroitic Hieroglyphs",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 6.1,
     "Char­acters": 32,
     "Remark": "Ancient/historic"
@@ -1094,7 +1094,7 @@
     "No.": 347,
     "Name": "Malayalam",
     "Alias[f]": "Malayalam",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 117,
     "Remark": ""
@@ -1104,7 +1104,7 @@
     "No.": 324,
     "Name": "Modi, Moḍī",
     "Alias[f]": "Modi",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 79,
     "Remark": "Ancient/historic"
@@ -1114,7 +1114,7 @@
     "No.": 145,
     "Name": "Mongolian",
     "Alias[f]": "Mongolian",
-    "Direc­tion": "T-to-B",
+    "Direction": "T-to-B",
     "Ver­sion": 3,
     "Char­acters": 167,
     "Remark": "Includes Clear, Manchu scripts"
@@ -1124,7 +1124,7 @@
     "No.": 218,
     "Name": "Moon (Moon code, Moon script, Moon type)",
     "Alias[f]": "",
-    "Direc­tion": "",
+    "Direction": "",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode, proposal in initial/exploratory stage[8]"
@@ -1134,7 +1134,7 @@
     "No.": 264,
     "Name": "Mro, Mru",
     "Alias[f]": "Mro",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 43,
     "Remark": ""
@@ -1144,7 +1144,7 @@
     "No.": 337,
     "Name": "Meitei Mayek (Meithei, Meetei)",
     "Alias[f]": "Meetei Mayek",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.2,
     "Char­acters": 79,
     "Remark": ""
@@ -1154,7 +1154,7 @@
     "No.": 323,
     "Name": "Multani",
     "Alias[f]": "Multani",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 8,
     "Char­acters": 38,
     "Remark": "Ancient/historic"
@@ -1164,7 +1164,7 @@
     "No.": 350,
     "Name": "Myanmar (Burmese)",
     "Alias[f]": "Myanmar",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3,
     "Char­acters": 223,
     "Remark": ""
@@ -1174,7 +1174,7 @@
     "No.": 311,
     "Name": "Nandinagari",
     "Alias[f]": "Nandinagari",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 12,
     "Char­acters": 65,
     "Remark": "Ancient/historic"
@@ -1184,7 +1184,7 @@
     "No.": 106,
     "Name": "Old North Arabian (Ancient North Arabian)",
     "Alias[f]": "Old North Arabian",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 7,
     "Char­acters": 32,
     "Remark": "Ancient/historic"
@@ -1194,7 +1194,7 @@
     "No.": 159,
     "Name": "Nabataean",
     "Alias[f]": "Nabataean",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 7,
     "Char­acters": 40,
     "Remark": "Ancient/historic"
@@ -1204,7 +1204,7 @@
     "No.": 333,
     "Name": "Newa, Newar, Newari, Nepāla lipi",
     "Alias[f]": "Newa",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 9,
     "Char­acters": 94,
     "Remark": ""
@@ -1214,7 +1214,7 @@
     "No.": "085",
     "Name": "Naxi Dongba (na²¹ɕi³³ to³³ba²¹, Nakhi Tomba)",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -1224,7 +1224,7 @@
     "No.": 420,
     "Name": "Nakhi Geba (na²¹ɕi³³ gʌ²¹ba²¹, 'Na-'Khi ²Ggŏ-¹baw, Nakhi Geba)",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode, proposal in initial/exploratory stage[8]"
@@ -1234,7 +1234,7 @@
     "No.": 165,
     "Name": "N’Ko",
     "Alias[f]": "NKo",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 5,
     "Char­acters": 62,
     "Remark": ""
@@ -1244,7 +1244,7 @@
     "No.": 499,
     "Name": "Nüshu",
     "Alias[f]": "Nushu",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 10,
     "Char­acters": 397,
     "Remark": ""
@@ -1254,7 +1254,7 @@
     "No.": 212,
     "Name": "Ogham",
     "Alias[f]": "Ogham",
-    "Direc­tion": "",
+    "Direction": "",
     "Ver­sion": 3,
     "Char­acters": 29,
     "Remark": "Ancient/historic"
@@ -1264,7 +1264,7 @@
     "No.": 261,
     "Name": "Ol Chiki (Ol Cemet’, Ol, Santali)",
     "Alias[f]": "Ol Chiki",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.1,
     "Char­acters": 48,
     "Remark": ""
@@ -1274,7 +1274,7 @@
     "No.": 175,
     "Name": "Old Turkic, Orkhon Runic",
     "Alias[f]": "Old Turkic",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 5.2,
     "Char­acters": 73,
     "Remark": "Ancient/historic"
@@ -1284,7 +1284,7 @@
     "No.": 327,
     "Name": "Oriya (Odia)",
     "Alias[f]": "Oriya",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 90,
     "Remark": ""
@@ -1294,7 +1294,7 @@
     "No.": 219,
     "Name": "Osage",
     "Alias[f]": "Osage",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 9,
     "Char­acters": 72,
     "Remark": ""
@@ -1304,7 +1304,7 @@
     "No.": 260,
     "Name": "Osmanya",
     "Alias[f]": "Osmanya",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 4,
     "Char­acters": 40,
     "Remark": ""
@@ -1314,7 +1314,7 @@
     "No.": 126,
     "Name": "Palmyrene",
     "Alias[f]": "Palmyrene",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 7,
     "Char­acters": 32,
     "Remark": "Ancient/historic"
@@ -1324,7 +1324,7 @@
     "No.": 263,
     "Name": "Pau Cin Hau",
     "Alias[f]": "Pau Cin Hau",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 57,
     "Remark": ""
@@ -1334,7 +1334,7 @@
     "No.": 227,
     "Name": "Old Permic",
     "Alias[f]": "Old Permic",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 43,
     "Remark": "Ancient/historic"
@@ -1344,7 +1344,7 @@
     "No.": 331,
     "Name": "Phags-pa",
     "Alias[f]": "Phags-pa",
-    "Direc­tion": "T-to-B",
+    "Direction": "T-to-B",
     "Ver­sion": 5,
     "Char­acters": 56,
     "Remark": "Ancient/historic"
@@ -1354,7 +1354,7 @@
     "No.": 131,
     "Name": "Inscriptional Pahlavi",
     "Alias[f]": "Inscriptional Pahlavi",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 5.2,
     "Char­acters": 27,
     "Remark": "Ancient/historic"
@@ -1364,7 +1364,7 @@
     "No.": 132,
     "Name": "Psalter Pahlavi",
     "Alias[f]": "Psalter Pahlavi",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 7,
     "Char­acters": 29,
     "Remark": "Ancient/historic"
@@ -1374,7 +1374,7 @@
     "No.": 133,
     "Name": "Book Pahlavi",
     "Alias[f]": "",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -1384,7 +1384,7 @@
     "No.": 115,
     "Name": "Phoenician",
     "Alias[f]": "Phoenician",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 5,
     "Char­acters": 29,
     "Remark": "Ancient/historic"
@@ -1394,7 +1394,7 @@
     "No.": 293,
     "Name": "Klingon (KLI pIqaD)",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Rejected for inclusion in the Unicode Standard[10][11]"
@@ -1404,7 +1404,7 @@
     "No.": 282,
     "Name": "Miao (Pollard)",
     "Alias[f]": "Miao",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 6.1,
     "Char­acters": 149,
     "Remark": ""
@@ -1414,7 +1414,7 @@
     "No.": 130,
     "Name": "Inscriptional Parthian",
     "Alias[f]": "Inscriptional Parthian",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 5.2,
     "Char­acters": 30,
     "Remark": "Ancient/historic"
@@ -1424,7 +1424,7 @@
     "No.": 900,
     "Name": "Reserved for private use (start)",
     "Alias[f]": "",
-    "Direc­tion": "",
+    "Direction": "",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -1434,7 +1434,7 @@
     "No.": 908,
     "Name": "(Private use)",
     "Alias[f]": "",
-    "Direc­tion": "",
+    "Direction": "",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode (Before version 5.2, this was used instead of Zinh)"
@@ -1444,7 +1444,7 @@
     "No.": 949,
     "Name": "Reserved for private use (end)",
     "Alias[f]": "",
-    "Direc­tion": "",
+    "Direction": "",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -1454,7 +1454,7 @@
     "No.": 363,
     "Name": "Rejang (Redjang, Kaganga)",
     "Alias[f]": "Rejang",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.1,
     "Char­acters": 37,
     "Remark": ""
@@ -1464,7 +1464,7 @@
     "No.": 167,
     "Name": "Hanifi Rohingya",
     "Alias[f]": "Hanifi Rohingya",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 11,
     "Char­acters": 50,
     "Remark": ""
@@ -1474,7 +1474,7 @@
     "No.": 620,
     "Name": "Rongorongo",
     "Alias[f]": "",
-    "Direc­tion": "",
+    "Direction": "",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode, proposal in initial/exploratory stage[8]"
@@ -1484,7 +1484,7 @@
     "No.": 211,
     "Name": "Runic",
     "Alias[f]": "Runic",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3,
     "Char­acters": 86,
     "Remark": "Ancient/historic"
@@ -1494,7 +1494,7 @@
     "No.": 123,
     "Name": "Samaritan",
     "Alias[f]": "Samaritan",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 5.2,
     "Char­acters": 61,
     "Remark": ""
@@ -1504,7 +1504,7 @@
     "No.": 292,
     "Name": "Sarati",
     "Alias[f]": "",
-    "Direc­tion": "",
+    "Direction": "",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -1514,7 +1514,7 @@
     "No.": 105,
     "Name": "Old South Arabian",
     "Alias[f]": "Old South Arabian",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 5.2,
     "Char­acters": 32,
     "Remark": "Ancient/historic"
@@ -1524,7 +1524,7 @@
     "No.": 344,
     "Name": "Saurashtra",
     "Alias[f]": "Saurashtra",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.1,
     "Char­acters": 82,
     "Remark": ""
@@ -1534,7 +1534,7 @@
     "No.": "095",
     "Name": "SignWriting",
     "Alias[f]": "SignWriting",
-    "Direc­tion": "T-to-B",
+    "Direction": "T-to-B",
     "Ver­sion": 8,
     "Char­acters": 672,
     "Remark": ""
@@ -1544,7 +1544,7 @@
     "No.": 281,
     "Name": "Shavian (Shaw)",
     "Alias[f]": "Shavian",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 4,
     "Char­acters": 48,
     "Remark": ""
@@ -1554,7 +1554,7 @@
     "No.": 319,
     "Name": "Sharada, Śāradā",
     "Alias[f]": "Sharada",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 6.1,
     "Char­acters": 94,
     "Remark": ""
@@ -1564,7 +1564,7 @@
     "No.": 530,
     "Name": "Shuishu",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -1574,7 +1574,7 @@
     "No.": 302,
     "Name": "Siddham, Siddhaṃ, Siddhamātṛkā",
     "Alias[f]": "Siddham",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 92,
     "Remark": "Ancient/historic"
@@ -1584,7 +1584,7 @@
     "No.": 318,
     "Name": "Khudawadi, Sindhi",
     "Alias[f]": "Khudawadi",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 69,
     "Remark": ""
@@ -1594,7 +1594,7 @@
     "No.": 348,
     "Name": "Sinhala",
     "Alias[f]": "Sinhala",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3,
     "Char­acters": 110,
     "Remark": ""
@@ -1604,7 +1604,7 @@
     "No.": 141,
     "Name": "Sogdian",
     "Alias[f]": "Sogdian",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 11,
     "Char­acters": 42,
     "Remark": "Ancient/historic"
@@ -1614,7 +1614,7 @@
     "No.": 142,
     "Name": "Old Sogdian",
     "Alias[f]": "Old Sogdian",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 11,
     "Char­acters": 40,
     "Remark": "Ancient/historic"
@@ -1624,7 +1624,7 @@
     "No.": 398,
     "Name": "Sora Sompeng",
     "Alias[f]": "Sora Sompeng",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 6.1,
     "Char­acters": 35,
     "Remark": ""
@@ -1634,7 +1634,7 @@
     "No.": 329,
     "Name": "Soyombo",
     "Alias[f]": "Soyombo",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 10,
     "Char­acters": 83,
     "Remark": "Ancient/historic"
@@ -1644,7 +1644,7 @@
     "No.": 362,
     "Name": "Sundanese",
     "Alias[f]": "Sundanese",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.1,
     "Char­acters": 72,
     "Remark": ""
@@ -1654,7 +1654,7 @@
     "No.": 316,
     "Name": "Syloti Nagri",
     "Alias[f]": "Syloti Nagri",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 4.1,
     "Char­acters": 44,
     "Remark": ""
@@ -1664,7 +1664,7 @@
     "No.": 135,
     "Name": "Syriac",
     "Alias[f]": "Syriac",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 3,
     "Char­acters": 88,
     "Remark": ""
@@ -1674,7 +1674,7 @@
     "No.": 138,
     "Name": "Syriac (Estrangelo variant)",
     "Alias[f]": "",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Typographic variant of Syriac"
@@ -1684,7 +1684,7 @@
     "No.": 137,
     "Name": "Syriac (Western variant)",
     "Alias[f]": "",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Typographic variant of Syriac"
@@ -1694,7 +1694,7 @@
     "No.": 136,
     "Name": "Syriac (Eastern variant)",
     "Alias[f]": "",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Typographic variant of Syriac"
@@ -1704,7 +1704,7 @@
     "No.": 373,
     "Name": "Tagbanwa",
     "Alias[f]": "Tagbanwa",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3.2,
     "Char­acters": 18,
     "Remark": ""
@@ -1714,7 +1714,7 @@
     "No.": 321,
     "Name": "Takri, Ṭākrī, Ṭāṅkrī",
     "Alias[f]": "Takri",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 6.1,
     "Char­acters": 67,
     "Remark": ""
@@ -1724,7 +1724,7 @@
     "No.": 353,
     "Name": "Tai Le",
     "Alias[f]": "Tai Le",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 4,
     "Char­acters": 35,
     "Remark": ""
@@ -1734,7 +1734,7 @@
     "No.": 354,
     "Name": "New Tai Lue",
     "Alias[f]": "New Tai Lue",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 4.1,
     "Char­acters": 83,
     "Remark": ""
@@ -1744,7 +1744,7 @@
     "No.": 346,
     "Name": "Tamil",
     "Alias[f]": "Tamil",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 123,
     "Remark": ""
@@ -1754,7 +1754,7 @@
     "No.": 520,
     "Name": "Tangut",
     "Alias[f]": "Tangut",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 9,
     "Char­acters": "6,892",
     "Remark": "Ancient/historic"
@@ -1764,7 +1764,7 @@
     "No.": 359,
     "Name": "Tai Viet",
     "Alias[f]": "Tai Viet",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.2,
     "Char­acters": 72,
     "Remark": ""
@@ -1774,7 +1774,7 @@
     "No.": 340,
     "Name": "Telugu",
     "Alias[f]": "Telugu",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 98,
     "Remark": ""
@@ -1784,7 +1784,7 @@
     "No.": 290,
     "Name": "Tengwar",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -1794,7 +1794,7 @@
     "No.": 120,
     "Name": "Tifinagh (Berber)",
     "Alias[f]": "Tifinagh",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 4.1,
     "Char­acters": 59,
     "Remark": ""
@@ -1804,7 +1804,7 @@
     "No.": 370,
     "Name": "Tagalog (Baybayin, Alibata)",
     "Alias[f]": "Tagalog",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3.2,
     "Char­acters": 20,
     "Remark": ""
@@ -1814,7 +1814,7 @@
     "No.": 170,
     "Name": "Thaana",
     "Alias[f]": "Thaana",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": 3,
     "Char­acters": 50,
     "Remark": ""
@@ -1824,7 +1824,7 @@
     "No.": 352,
     "Name": "Thai",
     "Alias[f]": "Thai",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 1,
     "Char­acters": 86,
     "Remark": ""
@@ -1834,7 +1834,7 @@
     "No.": 330,
     "Name": "Tibetan",
     "Alias[f]": "Tibetan",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 2,
     "Char­acters": 207,
     "Remark": "Added in 1.0, removed in 1.1 and reintroduced in 2.0"
@@ -1844,7 +1844,7 @@
     "No.": 326,
     "Name": "Tirhuta",
     "Alias[f]": "Tirhuta",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 82,
     "Remark": ""
@@ -1854,7 +1854,7 @@
     "No.": "040",
     "Name": "Ugaritic",
     "Alias[f]": "Ugaritic",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 4,
     "Char­acters": 31,
     "Remark": "Ancient/historic"
@@ -1864,7 +1864,7 @@
     "No.": 470,
     "Name": "Vai",
     "Alias[f]": "Vai",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5.1,
     "Char­acters": 300,
     "Remark": ""
@@ -1874,7 +1874,7 @@
     "No.": 280,
     "Name": "Visible Speech",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -1884,7 +1884,7 @@
     "No.": 262,
     "Name": "Warang Citi (Varang Kshiti)",
     "Alias[f]": "Warang Citi",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 7,
     "Char­acters": 84,
     "Remark": ""
@@ -1894,7 +1894,7 @@
     "No.": 283,
     "Name": "Wancho",
     "Alias[f]": "Wancho",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 12,
     "Char­acters": 59,
     "Remark": ""
@@ -1904,7 +1904,7 @@
     "No.": 480,
     "Name": "Woleai",
     "Alias[f]": "",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode, proposal in initial/exploratory stage[8]"
@@ -1914,7 +1914,7 @@
     "No.": "030",
     "Name": "Old Persian",
     "Alias[f]": "Old Persian",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 4.1,
     "Char­acters": 50,
     "Remark": "Ancient/historic"
@@ -1924,7 +1924,7 @@
     "No.": "020",
     "Name": "Cuneiform, Sumero-Akkadian",
     "Alias[f]": "Cuneiform",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 5,
     "Char­acters": "1,234",
     "Remark": "Ancient/historic"
@@ -1934,7 +1934,7 @@
     "No.": 192,
     "Name": "Yezidi",
     "Alias[f]": "",
-    "Direc­tion": "R-to-L",
+    "Direction": "R-to-L",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not in Unicode"
@@ -1944,7 +1944,7 @@
     "No.": 460,
     "Name": "Yi",
     "Alias[f]": "Yi",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 3,
     "Char­acters": "1,220",
     "Remark": ""
@@ -1954,7 +1954,7 @@
     "No.": 339,
     "Name": "Zanabazar Square (Zanabazarin Dörböljin Useg, Xewtee Dörböljin Bicig, Horizontal Square Script)",
     "Alias[f]": "Zanabazar Square",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": 10,
     "Char­acters": 72,
     "Remark": "Ancient/historic"
@@ -1964,7 +1964,7 @@
     "No.": 994,
     "Name": "Code for inherited script",
     "Alias[f]": "Inherited",
-    "Direc­tion": "Inherited",
+    "Direction": "Inherited",
     "Ver­sion": "",
     "Char­acters": 571,
     "Remark": ""
@@ -1974,7 +1974,7 @@
     "No.": 995,
     "Name": "Mathematical notation",
     "Alias[f]": "",
-    "Direc­tion": "L-to-R",
+    "Direction": "L-to-R",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not a 'script' in Unicode"
@@ -1984,7 +1984,7 @@
     "No.": 996,
     "Name": "Symbols",
     "Alias[f]": "",
-    "Direc­tion": "",
+    "Direction": "",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not a 'script' in Unicode"
@@ -1994,7 +1994,7 @@
     "No.": 993,
     "Name": "Symbols (emoji variant)",
     "Alias[f]": "",
-    "Direc­tion": "",
+    "Direction": "",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not a 'script' in Unicode"
@@ -2004,7 +2004,7 @@
     "No.": 997,
     "Name": "Code for unwritten documents",
     "Alias[f]": "",
-    "Direc­tion": "",
+    "Direction": "",
     "Ver­sion": "",
     "Char­acters": "",
     "Remark": "Not a 'script' in Unicode"
@@ -2014,7 +2014,7 @@
     "No.": 998,
     "Name": "Code for undetermined script",
     "Alias[f]": "Common",
-    "Direc­tion": "",
+    "Direction": "",
     "Ver­sion": "",
     "Char­acters": "7,805",
     "Remark": ""
@@ -2024,7 +2024,7 @@
     "No.": 999,
     "Name": "Code for uncoded script",
     "Alias[f]": "Unknown",
-    "Direc­tion": "",
+    "Direction": "",
     "Ver­sion": "",
     "Char­acters": "976,118",
     "Remark": "All other code points"
