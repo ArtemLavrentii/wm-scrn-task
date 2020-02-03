@@ -1,0 +1,2466 @@
+[
+  {
+    "Wikipedia Name": "English Wikipedia",
+    "Language": "English",
+    "Script": "Latn",
+    "WP Code": "en",
+    "Active users(log)": 5,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Wikipédia en français",
+    "Language": "French",
+    "Script": "Latn",
+    "WP Code": "fr",
+    "Active users(log)": 4,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Deutschsprachige Wikipedia",
+    "Language": "German",
+    "Script": "Latn",
+    "WP Code": "de",
+    "Active users(log)": 4,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Wikipedia en español",
+    "Language": "Spanish",
+    "Script": "Latn",
+    "WP Code": "es",
+    "Active users(log)": 4,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "ウィキペディア日本語版",
+    "Language": "Japanese",
+    "Script": "Jpan",
+    "WP Code": "ja",
+    "Active users(log)": 4,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Русская Википедия",
+    "Language": "Russian",
+    "Script": "Cyrl",
+    "WP Code": "ru",
+    "Active users(log)": 4,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Wikipedia in italiano",
+    "Language": "Italian",
+    "Script": "Latn",
+    "WP Code": "it",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "中文维基百科",
+    "Language": "Chinese",
+    "Script": "Hans/Hant",
+    "WP Code": "zh",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Wikipédia em português",
+    "Language": "Portuguese",
+    "Script": "Latn",
+    "WP Code": "pt",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "ويكيبيديا العربية",
+    "Language": "Arabic",
+    "Script": "Arab",
+    "WP Code": "ar",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "ویکی‌پدیای فارسی",
+    "Language": "Persian",
+    "Script": "Persian",
+    "WP Code": "fa",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Polskojęzyczna Wikipedia",
+    "Language": "Polish",
+    "Script": "Latn",
+    "WP Code": "pl",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Nederlandstalige Wikipedia",
+    "Language": "Dutch",
+    "Script": "Latn",
+    "WP Code": "nl",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Wikipedia bahasa Indonesia",
+    "Language": "Indonesian",
+    "Script": "Latn",
+    "WP Code": "id",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Українська Вікіпедія",
+    "Language": "Ukrainian",
+    "Script": "Cyrl",
+    "WP Code": "uk",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "ויקיפדיה העברית",
+    "Language": "Hebrew",
+    "Script": "Hebr",
+    "WP Code": "he",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Svenskspråkiga Wikipedia",
+    "Language": "Swedish",
+    "Script": "Latn",
+    "WP Code": "sv",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Česká Wikipedie",
+    "Language": "Czech",
+    "Script": "Latn",
+    "WP Code": "cs",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "한국어 위키백과",
+    "Language": "Korean",
+    "Script": "Hang",
+    "WP Code": "ko",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Wikipedia tiếng Việt",
+    "Language": "Vietnamese",
+    "Script": "Latn",
+    "WP Code": "vi",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Viquipèdia en català",
+    "Language": "Catalan",
+    "Script": "Latn",
+    "WP Code": "ca",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Bokmål Wikipedia",
+    "Language": "Norwegian (Bokmål)",
+    "Script": "Latn",
+    "WP Code": "no",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Suomenkielinen Wikipedia",
+    "Language": "Finnish",
+    "Script": "Latn",
+    "WP Code": "fi",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Magyar Wikipédia",
+    "Language": "Hungarian",
+    "Script": "Latn",
+    "WP Code": "hu",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "วิกิพีเดียภาษาไทย",
+    "Language": "Thai",
+    "Script": "Thai",
+    "WP Code": "th",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Ελληνική Βικιπαίδεια",
+    "Language": "Greek",
+    "Script": "Grek",
+    "WP Code": "el",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "हिन्दी विकिपीडिया",
+    "Language": "Hindi",
+    "Script": "Deva",
+    "WP Code": "hi",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "বাংলা উইকিপিডিয়া",
+    "Language": "Bengali",
+    "Script": "Beng",
+    "WP Code": "bn",
+    "Active users(log)": 3,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Wikipedya sa Sinugboanon",
+    "Language": "Cebuano",
+    "Script": "Latn",
+    "WP Code": "ceb",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Türkçe Vikipedi",
+    "Language": "Turkish",
+    "Script": "Latn",
+    "WP Code": "tr",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Wikipedia în română",
+    "Language": "Romanian",
+    "Script": "Latn",
+    "WP Code": "ro",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Wikipedia ya Kiswahili",
+    "Language": "Swahili",
+    "Script": "Latn",
+    "WP Code": "sw",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Қазақша Уикипедия",
+    "Language": "Kazakh",
+    "Script": "Cyrl/Latn/Arab",
+    "WP Code": "kk",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Dansk Wikipedia",
+    "Language": "Danish",
+    "Script": "Latn",
+    "WP Code": "da",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Vikipedio en Esperanto",
+    "Language": "Esperanto",
+    "Script": "Latn",
+    "WP Code": "eo",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Википедија на српском језику",
+    "Language": "Serbian",
+    "Script": "Cyrl/Latn",
+    "WP Code": "sr",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Lietuviškoji Vikipedija",
+    "Language": "Lithuanian",
+    "Script": "Latn",
+    "WP Code": "lt",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Slovenská Wikipedia",
+    "Language": "Slovak",
+    "Script": "Latn",
+    "WP Code": "sk",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Българоезична Уикипедия",
+    "Language": "Bulgarian",
+    "Script": "Cyrl",
+    "WP Code": "bg",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Minangkabau Wikipedia",
+    "Language": "Minangkabau",
+    "Script": "Latn",
+    "WP Code": "min",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Slovenska Wikipedija",
+    "Language": "Slovene",
+    "Script": "Latn",
+    "WP Code": "sl",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Euskarazko Wikipedia",
+    "Language": "Basque",
+    "Script": "Latn",
+    "WP Code": "eu",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Eestikeelne Vikipeedia",
+    "Language": "Estonian",
+    "Script": "Latn",
+    "WP Code": "et",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Hrvatska Wikipedija",
+    "Language": "Croatian",
+    "Script": "Latn",
+    "WP Code": "hr",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "తెలుగు వికీపీడియా",
+    "Language": "Telugu(తెలుగు)",
+    "Script": "Telu",
+    "WP Code": "te",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Nynorsk Wikipedia",
+    "Language": "Norwegian (Nynorsk)",
+    "Script": "Latn",
+    "WP Code": "nn",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Galipedia",
+    "Language": "Galician",
+    "Script": "Latn",
+    "WP Code": "gl",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Simple English Wikipedia",
+    "Language": "Simple English",
+    "Script": "Latn",
+    "WP Code": "simple",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Wikipedia Bahasa Melayu",
+    "Language": "Malay",
+    "Script": "Latn",
+    "WP Code": "ms",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Wikipedia na bosanskom jeziku",
+    "Language": "Bosnian",
+    "Script": "Latn",
+    "WP Code": "bs",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "ქართული ვიკიპედია",
+    "Language": "Georgian",
+    "Script": "Geor",
+    "WP Code": "ka",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Icelandic Wikipedia",
+    "Language": "Icelandic",
+    "Script": "Latn",
+    "WP Code": "is",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Wikipedia shqip",
+    "Language": "Albanian",
+    "Script": "Latn",
+    "WP Code": "sq",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Vicipaedia Latina",
+    "Language": "Latin",
+    "Script": "Latn",
+    "WP Code": "la",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Azərbaycanca Vikipediya",
+    "Language": "Azerbaijani",
+    "Script": "Latn",
+    "WP Code": "az",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Македонска Википедија",
+    "Language": "Macedonian",
+    "Script": "Cyrl",
+    "WP Code": "mk",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Marathi Wikipedia",
+    "Language": "Marathi",
+    "Script": "Deva",
+    "WP Code": "mr",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Srpskohrvatska Wikipedija",
+    "Language": "Serbo-Croatian",
+    "Script": "Latn/Cyrl",
+    "WP Code": "sh",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Afrikaanse Wikipedia",
+    "Language": "Afrikaans",
+    "Script": "Latn",
+    "WP Code": "af",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tagalog Wikipedia",
+    "Language": "Tagalog",
+    "Script": "Latn",
+    "WP Code": "tl",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Welsh Wikipedia",
+    "Language": "Welsh",
+    "Script": "Latn",
+    "WP Code": "cy",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Vikipēdija latviešu valodā",
+    "Language": "Latvian",
+    "Script": "Latn",
+    "WP Code": "lv",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "தமிழ் விக்கிபீடியா",
+    "Language": "Tamil",
+    "Script": "Taml",
+    "WP Code": "ta",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Javanese Wikipedia",
+    "Language": "Javanese",
+    "Script": "Latn",
+    "WP Code": "jv",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Беларуская Вікіпедыя",
+    "Language": "Belarusian",
+    "Script": "Cyrl",
+    "WP Code": "be",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Asturian Wikipedia",
+    "Language": "Asturian",
+    "Script": "Latn",
+    "WP Code": "ast",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Cantonese Wikipedia",
+    "Language": "Cantonese",
+    "Script": "Hant",
+    "WP Code": "zh-yue",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Urdu Wikipedia",
+    "Language": "Urdu",
+    "Script": "Arab",
+    "WP Code": "ur",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Vicipéid na Gaeilge",
+    "Language": "Irish",
+    "Script": "Latn",
+    "WP Code": "ga",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Հայերեն Վիքիպեդիա",
+    "Language": "Armenian",
+    "Script": "Armn",
+    "WP Code": "hy",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "ಕನ್ನಡ ವಿಕಿಪೀಡಿಯ",
+    "Language": "Kannada(ಕನ್ನಡ)",
+    "Script": "Knda",
+    "WP Code": "kn",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Malayalam Wikipedia",
+    "Language": "Malayalam",
+    "Script": "Mlym",
+    "WP Code": "ml",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Nepali Wikipedia",
+    "Language": "Nepali",
+    "Script": "Deva",
+    "WP Code": "ne",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Uzbek Wikipedia",
+    "Language": "Uzbek",
+    "Script": "Latn/Cyrl",
+    "WP Code": "uz",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Eastern Punjabi Wikipedia",
+    "Language": "Eastern Punjabi",
+    "Script": "Gurmukhī",
+    "WP Code": "pa",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Burmese Wikipedia",
+    "Language": "Burmese",
+    "Script": "Mymr",
+    "WP Code": "my",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "ويكيبيديا مصرى",
+    "Language": "Egyptian Arabic",
+    "Script": "Arab/Latn",
+    "WP Code": "arz",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Sorani Kurdish Wikipedia",
+    "Language": "Sorani Kurdish",
+    "Script": "Arab",
+    "WP Code": "ckb",
+    "Active users(log)": 2,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Waray Wikipedia",
+    "Language": "Waray",
+    "Script": "Latn",
+    "WP Code": "war",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Vükiped Volapükik",
+    "Language": "Volapük",
+    "Script": "Latn",
+    "WP Code": "vo",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Lombard Wikipedia",
+    "Language": "Lombard",
+    "Script": "Latn",
+    "WP Code": "lmo",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Newar Wikipedia",
+    "Language": "Newar / Nepal Bhasa",
+    "Script": "Deva",
+    "WP Code": "new",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Haitian Creole Wikipedia",
+    "Language": "Haitian",
+    "Script": "Latn",
+    "WP Code": "ht",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "বিষ্ণুপ্রিয়া মনিপুরী উইকিপিডিয়া",
+    "Language": "Bishnupriya Manipuri",
+    "Script": "Beng",
+    "WP Code": "bpy",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Luxembourgish Wikipedia",
+    "Language": "Luxembourgish",
+    "Script": "Latn",
+    "WP Code": "lb",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Breton Wikipedia",
+    "Language": "Breton",
+    "Script": "Latn",
+    "WP Code": "br",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Gujarati Wikipedia",
+    "Language": "Gujarati",
+    "Script": "Deva",
+    "WP Code": "gu",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tajik Wikipedia",
+    "Language": "Tajik",
+    "Script": "Cyrl",
+    "WP Code": "tg",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Ido Wikipedia",
+    "Language": "Ido",
+    "Script": "Latn",
+    "WP Code": "io",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Piedmontese Wikipedia",
+    "Language": "Piedmontese",
+    "Script": "Latn",
+    "WP Code": "pms",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Sundanese Wikipedia",
+    "Language": "Sundanese",
+    "Script": "Latn",
+    "WP Code": "su",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Occitan Wikipedia",
+    "Language": "Occitan",
+    "Script": "Latn",
+    "WP Code": "oc",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Neapolitan Wikipedia",
+    "Language": "Neapolitan",
+    "Script": "Latn",
+    "WP Code": "nap",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Low Saxon Wikipedia",
+    "Language": "Low Saxon",
+    "Script": "Latn",
+    "WP Code": "nds",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Sicilian Wikipedia",
+    "Language": "Sicilian",
+    "Script": "Latn",
+    "WP Code": "scn",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "संस्कृतविकिपीडिया",
+    "Language": "Sanskrit",
+    "Script": "Deva",
+    "WP Code": "sa",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kurdish Wikipedia",
+    "Language": "Kurdish",
+    "Script": "Latn/Arab",
+    "WP Code": "ku",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Walloon Wikipedia",
+    "Language": "Walloon",
+    "Script": "Latn",
+    "WP Code": "wa",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Bavarian Wikipedia",
+    "Language": "Bavarian",
+    "Script": "Latn",
+    "WP Code": "bar",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Aragonese Wikipedia",
+    "Language": "Aragonese",
+    "Script": "Latn",
+    "WP Code": "an",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Ripuarian Wikipedia",
+    "Language": "Ripuarian",
+    "Script": "Latn",
+    "WP Code": "ksh",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Silesian Wikipedia",
+    "Language": "Silesian",
+    "Script": "Latn",
+    "WP Code": "szl",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "West Frisian Wikipedia",
+    "Language": "West Frisian",
+    "Script": "Latn",
+    "WP Code": "fy",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "North Frisian Wikipedia",
+    "Language": "North Frisian",
+    "Script": "Latn",
+    "WP Code": "frr",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Alemannic Wikipedia",
+    "Language": "Alemannic",
+    "Script": "Latn",
+    "WP Code": "als",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Interlingua Wikipedia",
+    "Language": "Interlingua",
+    "Script": "Latn/Arab",
+    "WP Code": "ia",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Yiddish Wikipedia",
+    "Language": "Yiddish",
+    "Script": "Hebr",
+    "WP Code": "yi",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Malagasy Wikipedia",
+    "Language": "Malagasy",
+    "Script": "Latn",
+    "WP Code": "mg",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Khmer Wikipedia",
+    "Language": "Khmer",
+    "Script": "Khmr",
+    "WP Code": "km",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Chechen Wikipedia",
+    "Language": "Chechen",
+    "Script": "Cyrl",
+    "WP Code": "ce",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tarantino Wikipedia",
+    "Language": "Tarantino",
+    "Script": "Latn",
+    "WP Code": "roa-tara",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Amharic Wikipedia",
+    "Language": "Amharic",
+    "Script": "Geez",
+    "WP Code": "am",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Aromanian Wikipedia",
+    "Language": "Aromanian",
+    "Script": "Latn",
+    "WP Code": "roa-rup",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Banyumasan Wikipedia",
+    "Language": "Banyumasan",
+    "Script": "Latn",
+    "WP Code": "map-bms",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Bhojpuri Wikipedia",
+    "Language": "Bhojpuri",
+    "Script": "Deva",
+    "WP Code": "bh",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Central Bicolano Wikipedia",
+    "Language": "Central_Bicolano",
+    "Script": "Latn",
+    "WP Code": "bcl",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Corsican Wikipedia",
+    "Language": "Corsican",
+    "Script": "Latn",
+    "WP Code": "co",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Chuvash Wikipedia",
+    "Language": "Chuvash",
+    "Script": "Latn",
+    "WP Code": "cv",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Divehi Wikipedia",
+    "Language": "Divehi",
+    "Script": "Thaa",
+    "WP Code": "dv",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Dutch Low Saxon Wikipedia",
+    "Language": "Dutch Low Saxon",
+    "Script": "Latn",
+    "WP Code": "nds-nl",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Faroese Wikipedia",
+    "Language": "Faroese",
+    "Script": "Latn",
+    "WP Code": "fo",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Friulian Wikipedia",
+    "Language": "Friulian",
+    "Script": "Latn",
+    "WP Code": "fur",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Gan Chinese Wikipedia",
+    "Language": "Gan Chinese",
+    "Script": "Hans/Hant",
+    "WP Code": "gan",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Gilaki Wikipedia",
+    "Language": "Gilaki",
+    "Script": "Perso",
+    "WP Code": "glk",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Gujarati Wikipedia",
+    "Language": "Gujarati",
+    "Script": "Gujr",
+    "WP Code": "gu",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Ilokano Wikipedia",
+    "Language": "Ilokano",
+    "Script": "Latn",
+    "WP Code": "ilo",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kapampangan Wikipedia",
+    "Language": "Kapampangan",
+    "Script": "Latn",
+    "WP Code": "pam",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kashubian Wikipedia",
+    "Language": "Kashubian",
+    "Script": "Latn",
+    "WP Code": "csb",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Ligurian Wikipedia",
+    "Language": "Ligurian",
+    "Script": "Latn",
+    "WP Code": "lij",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Limburgish Wikipedia",
+    "Language": "Limburgish",
+    "Script": "Latn",
+    "WP Code": "li",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Manx Wikipedia",
+    "Language": "Manx",
+    "Script": "Latn",
+    "WP Code": "gv",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Māori Wikipedia",
+    "Language": "Māori",
+    "Script": "Latn",
+    "WP Code": "mi",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Maltese Wikipedia",
+    "Language": "Maltese",
+    "Script": "Latn",
+    "WP Code": "mt",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Nāhuatl Wikipedia",
+    "Language": "Nāhuatl",
+    "Script": "Latn",
+    "WP Code": "nah",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Norman Wikipedia",
+    "Language": "Norman",
+    "Script": "Latn",
+    "WP Code": "nrm",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Northern Sami Wikipedia",
+    "Language": "Northern Sami",
+    "Script": "Latn",
+    "WP Code": "se",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Scottish Gaelic Wikipedia",
+    "Language": "Scottish Gaelic",
+    "Script": "Latn",
+    "WP Code": "gd",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Novial Wikipedia",
+    "Language": "Novial",
+    "Script": "Latn",
+    "WP Code": "nov",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Quechua Wikipedia",
+    "Language": "Quechua",
+    "Script": "Latn",
+    "WP Code": "qu",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Ossetian Wikipedia",
+    "Language": "Ossetian",
+    "Script": "Cyrl",
+    "WP Code": "os",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Pangasinan Wikipedia",
+    "Language": "Pangasinan",
+    "Script": "Latn",
+    "WP Code": "pag",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Pashto Wikipedia",
+    "Language": "Pashto",
+    "Script": "Arab",
+    "WP Code": "ps",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Pennsylvania German Wikipedia",
+    "Language": "Pennsylvania German",
+    "Script": "Latn",
+    "WP Code": "pdc",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Romansh Wikipedia",
+    "Language": "Romansh",
+    "Script": "Latn",
+    "WP Code": "rm",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Samogitian Wikipedia",
+    "Language": "Samogitian",
+    "Script": "Latn",
+    "WP Code": "bat-smg",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Scots Wikipedia",
+    "Language": "Scots",
+    "Script": "Latn",
+    "WP Code": "sco",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Sardinian Wikipedia",
+    "Language": "Sardinian",
+    "Script": "Latn",
+    "WP Code": "sc",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Sinhalese Wikipedia",
+    "Language": "Sinhalese",
+    "Script": "Sinh",
+    "WP Code": "si",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tatar Wikipedia",
+    "Language": "Tatar",
+    "Script": "Cyrl/Latn",
+    "WP Code": "tt",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Turkmen Wikipedia",
+    "Language": "Turkmen",
+    "Script": "Latn",
+    "WP Code": "tk",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Hornjoserbska wikipedija",
+    "Language": "Upper Sorbian",
+    "Script": "Latn",
+    "WP Code": "hsb",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Venetian Wikipedia",
+    "Language": "Venetian",
+    "Script": "Latn",
+    "WP Code": "vec",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Voro Wikipedia",
+    "Language": "Võro",
+    "Script": "Latn",
+    "WP Code": "fiu-vro",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Wu Wikipedia",
+    "Language": "Wu",
+    "Script": "Hans",
+    "WP Code": "wuu",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "West Flemish Wikipedia",
+    "Language": "West Flemish",
+    "Script": "Latn",
+    "WP Code": "vls",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Yoruba Wikipedia",
+    "Language": "Yoruba",
+    "Script": "Latn",
+    "WP Code": "yo",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Zazaki Wikipedia",
+    "Language": "Zazaki",
+    "Script": "Latn",
+    "WP Code": "diq",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Min Nan Wikipedia",
+    "Language": "Min Nan",
+    "Script": "Latn",
+    "WP Code": "zh-min-nan",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Classical Chinese Wikipedia",
+    "Language": "Classical Chinese",
+    "Script": "Hant",
+    "WP Code": "zh-classical",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Franco-Provençal Wikipedia",
+    "Language": "Franco-Provençal/Arpitan",
+    "Script": "Latn",
+    "WP Code": "frp",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Ladino Wikipedia",
+    "Language": "Ladino",
+    "Script": "Latn",
+    "WP Code": "lad",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Cornish Wikipedia",
+    "Language": "Cornish",
+    "Script": "Latn",
+    "WP Code": "kw",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Монгол Википедиа",
+    "Language": "Mongolian",
+    "Script": "Cyrl",
+    "WP Code": "mn",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Hawaiian Wikipedia",
+    "Language": "Hawaiian",
+    "Script": "Latn",
+    "WP Code": "haw",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Anglo-Saxon Wikipedia",
+    "Language": "Anglo-Saxon",
+    "Script": "Latn",
+    "WP Code": "ang",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Lingala Wikipedia",
+    "Language": "Lingala",
+    "Script": "Latn",
+    "WP Code": "ln",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Interlingue Wikipedia",
+    "Language": "Interlingue",
+    "Script": "Latn",
+    "WP Code": "ie",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Wolof Wikipedia",
+    "Language": "Wolof",
+    "Script": "Latn",
+    "WP Code": "wo",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tok Pisin Wikipedia",
+    "Language": "Tok Pisin",
+    "Script": "Latn",
+    "WP Code": "tpi",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tahitian Wikipedia",
+    "Language": "Tahitian",
+    "Script": "Latn",
+    "WP Code": "ty",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Crimean Tatar Wikipedia",
+    "Language": "Crimean Tatar",
+    "Script": "Latn",
+    "WP Code": "crh",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Navajo Wikipedia",
+    "Language": "Navajo",
+    "Script": "Latn",
+    "WP Code": "nv",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Lojban Wikipedia",
+    "Language": "Lojban",
+    "Script": "Latn",
+    "WP Code": "jbo",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Aymara Wikipedia",
+    "Language": "Aymara",
+    "Script": "Latn",
+    "WP Code": "ay",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Zealandic Wikipedia",
+    "Language": "Zealandic",
+    "Script": "Latn",
+    "WP Code": "zea",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Emilian-Romagnol Wikipedia",
+    "Language": "Emilian-Romagnol",
+    "Script": "Latn",
+    "WP Code": "eml",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kyrgyz Wikipedia",
+    "Language": "Kyrgyz",
+    "Script": "Cyrl",
+    "WP Code": "ky",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Igbo Wikipedia",
+    "Language": "Igbo",
+    "Script": "Latn",
+    "WP Code": "ig",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Odia Wikipedia",
+    "Language": "Odia",
+    "Script": "Orya",
+    "WP Code": "or",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Zamboanga Chavacano Wikipedia",
+    "Language": "Zamboanga Chavacano",
+    "Script": "Latn",
+    "WP Code": "cbk-zam",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kongo Wikipedia",
+    "Language": "Kongo",
+    "Script": "Latn",
+    "WP Code": "kg",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Syriac Wikipedia",
+    "Language": "Syriac",
+    "Script": "Syrc",
+    "WP Code": "arc",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Vlax Romani Wikipedia",
+    "Language": "Vlax Romani",
+    "Script": "Latn/Deva",
+    "WP Code": "rmy",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Abkhazian Wikipedia",
+    "Language": "Abkhazian",
+    "Script": "Cyrl",
+    "WP Code": "ab",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Guarani Wikipedia",
+    "Language": "Guarani",
+    "Script": "Latn",
+    "WP Code": "gn",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Somali Wikipedia",
+    "Language": "Somali",
+    "Script": "Latn",
+    "WP Code": "so",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kabyle Wikipedia",
+    "Language": "Kabyle",
+    "Script": "Latn",
+    "WP Code": "kab",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Uyghur Wikipedia",
+    "Language": "Uyghur",
+    "Script": "Latn/Arab",
+    "WP Code": "ug",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Saterland Frisian Wikipedia",
+    "Language": "Saterland Frisian",
+    "Script": "Latn",
+    "WP Code": "stq",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Udmurt Wikipedia",
+    "Language": "Udmurt",
+    "Script": "Cyrl",
+    "WP Code": "udm",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Extremaduran Wikipedia",
+    "Language": "Extremaduran",
+    "Script": "Latn",
+    "WP Code": "ext",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Mazandarani Wikipedia",
+    "Language": "Mazandarani",
+    "Script": "Perso",
+    "WP Code": "mzn",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Papiamentu Wikipedia",
+    "Language": "Papiamentu",
+    "Script": "Latn",
+    "WP Code": "pap",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Old Church Slavonic Wikipedia",
+    "Language": "Old Church Slavonic",
+    "Script": "Cyrs",
+    "WP Code": "cu",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Sakha Wikipedia",
+    "Language": "Sakha",
+    "Script": "Cyrl",
+    "WP Code": "sah",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tetum Wikipedia",
+    "Language": "Tetum",
+    "Script": "Latn",
+    "WP Code": "tet",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "سنڌي وڪيپيڊيا",
+    "Language": "Sindhi",
+    "Script": "Arab",
+    "WP Code": "sd",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Picard Wikipedia",
+    "Language": "Picard",
+    "Script": "Latn",
+    "WP Code": "pcd",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Assamese Wikipedia",
+    "Language": "Assamese",
+    "Script": "Beng",
+    "WP Code": "as",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Shona Wikipedia",
+    "Language": "Shona",
+    "Script": "Latn",
+    "WP Code": "sn",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Lao Wikipedia",
+    "Language": "Lao",
+    "Script": "Laoo",
+    "WP Code": "lo",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Bashkir Wikipedia",
+    "Language": "Bashkir",
+    "Script": "Cyrl",
+    "WP Code": "ba",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Western Punjabi Wikipedia",
+    "Language": "Western Punjabi",
+    "Script": "Shahmukhi",
+    "WP Code": "pnb",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Nauruan Wikipedia",
+    "Language": "Nauruan",
+    "Script": "Latn",
+    "WP Code": "na",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Gothic Wikipedia",
+    "Language": "Gothic",
+    "Script": "Goth",
+    "WP Code": "got",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tibetan Wikipedia",
+    "Language": "Tibetan",
+    "Script": "Tibt",
+    "WP Code": "bo",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Dolnoserbska wikipedija",
+    "Language": "Lower Sorbian",
+    "Script": "Latn",
+    "WP Code": "dsb",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Cherokee Wikipedia",
+    "Language": "Cherokee",
+    "Script": "Cher",
+    "WP Code": "chr",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Min Dong Wikipedia",
+    "Language": "Min Dong",
+    "Script": "Latn",
+    "WP Code": "cdo",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Hakka Wikipedia",
+    "Language": "Hakka",
+    "Script": "Latn",
+    "WP Code": "hak",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Oromo Wikipedia",
+    "Language": "Oromo",
+    "Script": "Latn",
+    "WP Code": "om",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Samoan Wikipedia",
+    "Language": "Samoan",
+    "Script": "Latn",
+    "WP Code": "sm",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Ewe Wikipedia",
+    "Language": "Ewe",
+    "Script": "Latn",
+    "WP Code": "ee",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tigrinya Wikipedia",
+    "Language": "Tigrinya",
+    "Script": "Ethi",
+    "WP Code": "ti",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Avar Wikipedia",
+    "Language": "Avar",
+    "Script": "Cyrl",
+    "WP Code": "av",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Zulu Wikipedia",
+    "Language": "Zulu",
+    "Script": "Latn",
+    "WP Code": "zu",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Pontic Wikipedia",
+    "Language": "Pontic",
+    "Script": "Grek",
+    "WP Code": "pnt",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Cree Wikipedia",
+    "Language": "Cree",
+    "Script": "Cans/Latn",
+    "WP Code": "cr",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Norfolk Wikipedia",
+    "Language": "Norfolk",
+    "Script": "Latn",
+    "WP Code": "pih",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Swati Wikipedia",
+    "Language": "Swati",
+    "Script": "Latn",
+    "WP Code": "ss",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Bislama Wikipedia",
+    "Language": "Bislama",
+    "Script": "Latn",
+    "WP Code": "bi",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kinyarwanda Wikipedia",
+    "Language": "Kinyarwanda",
+    "Script": "Latn",
+    "WP Code": "rw",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Chamorro Wikipedia",
+    "Language": "Chamorro",
+    "Script": "Latn",
+    "WP Code": "ch",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Xhosa Wikipedia",
+    "Language": "Xhosa",
+    "Script": "Latn",
+    "WP Code": "xh",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Greenlandic Wikipedia",
+    "Language": "Greenlandic",
+    "Script": "Latn",
+    "WP Code": "kl",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Buginese Wikipedia",
+    "Language": "Buginese",
+    "Script": "Bugi",
+    "WP Code": "bug",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tsonga Wikipedia",
+    "Language": "Tsonga",
+    "Script": "Latn",
+    "WP Code": "ts",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tswana Wikipedia",
+    "Language": "Tswana",
+    "Script": "Latn",
+    "WP Code": "tn",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Komi Wikipedia",
+    "Language": "Komi",
+    "Script": "Cyrl",
+    "WP Code": "kv",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tumbuku Wikipedia",
+    "Language": "Tumbuka",
+    "Script": "Latn",
+    "WP Code": "tum",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kalmyk Wikipedia",
+    "Language": "Kalmyk",
+    "Script": "Cyrl",
+    "WP Code": "xal",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Sesotho Wikipedia",
+    "Language": "Sesotho",
+    "Script": "Latn",
+    "WP Code": "st",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Twi Wikipedia",
+    "Language": "Twi",
+    "Script": "Latn",
+    "WP Code": "tw",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Buryat (Russia) Wikipedia",
+    "Language": "Buryat (Russia)",
+    "Script": "Cyrl",
+    "WP Code": "bxr",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Akan Wikipedia",
+    "Language": "Akan",
+    "Script": "Latn",
+    "WP Code": "ak",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Lak Wikipedia",
+    "Language": "Lak",
+    "Script": "Cyrl",
+    "WP Code": "lbe",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Zhuang Wikipedia",
+    "Language": "Zhuang",
+    "Script": "Latn",
+    "WP Code": "za",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Fula Wikipedia",
+    "Language": "Fula",
+    "Script": "Latn",
+    "WP Code": "ff",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Luganda Wikipedia",
+    "Language": "Luganda",
+    "Script": "Latn",
+    "WP Code": "lg",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Hausa Wikipedia",
+    "Language": "Hausa",
+    "Script": "Latn",
+    "WP Code": "ha",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Sango Wikipedia",
+    "Language": "Sango",
+    "Script": "Latn",
+    "WP Code": "sg",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kirundi Wikipedia",
+    "Language": "Kirundi",
+    "Script": "Latn",
+    "WP Code": "rn",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Mirandese Wikipedia",
+    "Language": "Mirandese",
+    "Script": "Latn",
+    "WP Code": "mwl",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Mingrelian Wikipedia",
+    "Language": "Mingrelian",
+    "Script": "Geor",
+    "WP Code": "xmf",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Lezgi Wikipedia",
+    "Language": "Lezgian",
+    "Script": "Cyrl",
+    "WP Code": "lez",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Banjar Wikipedia",
+    "Language": "Banjar",
+    "Script": "Latn",
+    "WP Code": "bjn",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Maithili Wikipedia",
+    "Language": "Maithili",
+    "Script": "Deva",
+    "WP Code": "mai",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Konkani Wikipedia",
+    "Language": "Konkani",
+    "Script": "Deva/Latn",
+    "WP Code": "gom",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Northern Luri Wikipedia",
+    "Language": "Northern Luri",
+    "Script": "Perso",
+    "WP Code": "lrc",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tuvinian Wikipedia",
+    "Language": "Tuvan",
+    "Script": "Cyrl",
+    "WP Code": "tyv",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Veps Wikipedia",
+    "Language": "Veps",
+    "Script": "Latn",
+    "WP Code": "vep",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Northern Sotho Wikipedia",
+    "Language": "Northern Sotho",
+    "Script": "Latn",
+    "WP Code": "nso",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kabardian Wikipedia",
+    "Language": "Kabardian",
+    "Script": "Cyrl",
+    "WP Code": "kbd",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Latgalian Wikipedia",
+    "Language": "Latgalian",
+    "Script": "Latn",
+    "WP Code": "ltg",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Rusyn Wikipedia",
+    "Language": "Rusyn",
+    "Script": "Cyrl",
+    "WP Code": "rue",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Palatine German Wikipedia",
+    "Language": "Palatine German",
+    "Script": "Latn",
+    "WP Code": "pfl",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Gagauz Wikipedia",
+    "Language": "Gagauz",
+    "Script": "Latn",
+    "WP Code": "gag",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Komi-Permyak Wikipedia",
+    "Language": "Komi-Permyak",
+    "Script": "Cyrl",
+    "WP Code": "koi",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Hill Mari Wikipedia",
+    "Language": "Hill Mari",
+    "Script": "Cyrl",
+    "WP Code": "mrj",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Meadow Mari Wikipedia",
+    "Language": "Meadow Mari",
+    "Script": "Cyrl",
+    "WP Code": "mhr",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Karachay-Balkar Wikipedia",
+    "Language": "Karachay-Balkar",
+    "Script": "Cyrl",
+    "WP Code": "krc",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Acehnese Wikipedia",
+    "Language": "Acehnese",
+    "Script": "Latn",
+    "WP Code": "ace",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Fiji Hindi Wikipedia",
+    "Language": "Fiji Hindi",
+    "Script": "Latn",
+    "WP Code": "hif",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Livvi-Karelian Wikipedia",
+    "Language": "Livvi-Karelian",
+    "Script": "Latn",
+    "WP Code": "olo",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Karakalpak Wikipedia",
+    "Language": "Karakalpak",
+    "Script": "Latn",
+    "WP Code": "kaa",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Moksha Wikipedia",
+    "Language": "Moksha",
+    "Script": "Cyrl",
+    "WP Code": "mdf",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Erzya Wikipedia",
+    "Language": "Erzya",
+    "Script": "Cyrl",
+    "WP Code": "myv",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Southern Azerbaijani Wikipedia",
+    "Language": "Southern Azerbaijani",
+    "Script": "Perso",
+    "WP Code": "azb",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Adyghe Wikipedia",
+    "Language": "Adyghe",
+    "Script": "Cyrl",
+    "WP Code": "ady",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Jamaican Wikipedia",
+    "Language": "Jamaican",
+    "Script": "Latn",
+    "WP Code": "jam",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tulu Wikipedia",
+    "Language": "Tulu",
+    "Script": "Knda",
+    "WP Code": "tcy",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Doteli Wikipedia",
+    "Language": "Doteli",
+    "Script": "Deva",
+    "WP Code": "dty",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Atikamekw Wikipedia",
+    "Language": "Atikamekw",
+    "Script": "Latn",
+    "WP Code": "atj",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kabiye Wikipedia",
+    "Language": "Kabiye",
+    "Script": "Latn",
+    "WP Code": "kbp",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Dinka Wikipedia",
+    "Language": "Dinka",
+    "Script": "Latn",
+    "WP Code": "din",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Lingua Franca Nova Wikipedia",
+    "Language": "Lingua Franca Nova",
+    "Script": "Latn",
+    "WP Code": "lfn",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Gorontalo Wikipedia",
+    "Language": "Gorontalo",
+    "Script": "Latn",
+    "WP Code": "gor",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Ingush Wikipedia",
+    "Language": "Ingush",
+    "Script": "Cyrl",
+    "WP Code": "inh",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Santali Wikipedia",
+    "Language": "Santali",
+    "Script": "Olck",
+    "WP Code": "sat",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Balinese Wikipedia",
+    "Language": "Balinese",
+    "Script": "Latn",
+    "WP Code": "ban",
+    "Active users(log)": 1,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Беларуская Вікіпэдыя",
+    "Language": "Belarusian (Taraškievica)",
+    "Script": "Cyrl",
+    "WP Code": "be-x-old",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Balochi Wikipedia",
+    "Language": "Balochi language",
+    "Script": "Arab",
+    "WP Code": "bal",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Pali Wikipedia",
+    "Language": "Pali",
+    "Script": "Deva",
+    "WP Code": "pi",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Tongan Wikipedia",
+    "Language": "Tongan",
+    "Script": "Latn",
+    "WP Code": "to",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Western Balochi Wikipedia",
+    "Language": "Western Balochi",
+    "Script": "Arab",
+    "WP Code": "bgn",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Khowar Wikipedia",
+    "Language": "Khowar",
+    "Script": "Arab",
+    "WP Code": "khw",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Moldovan Wikipedia (closed)",
+    "Language": "Moldovan",
+    "Script": "Cyrl",
+    "WP Code": "mo (closed)",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kashmiri Wikipedia",
+    "Language": "Kashmiri",
+    "Script": "Arab/Deva",
+    "WP Code": "ks",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Inuktitut Wikipedia",
+    "Language": "Inuktitut",
+    "Script": "Cans/Latn",
+    "WP Code": "iu",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Bambara Wikipedia",
+    "Language": "Bambara",
+    "Script": "Latn",
+    "WP Code": "bm",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Venda Wikipedia",
+    "Language": "Venda",
+    "Script": "Latn",
+    "WP Code": "ve",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Inupiak Wikipedia",
+    "Language": "Inupiak",
+    "Script": "Latn",
+    "WP Code": "ik",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Dzongkha Wikipedia",
+    "Language": "Dzongkha",
+    "Script": "Tibt",
+    "WP Code": "dz",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Chichewa Wikipedia",
+    "Language": "Chichewa",
+    "Script": "Latn",
+    "WP Code": "ny",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Fijian Wikipedia",
+    "Language": "Fijian",
+    "Script": "Latn",
+    "WP Code": "fj",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kikuyu Wikipedia",
+    "Language": "Kikuyu",
+    "Script": "Latn",
+    "WP Code": "ki",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Sichuan Yi Wikipedia (closed)",
+    "Language": "Sichuan Yi",
+    "Script": "Yiii",
+    "WP Code": "ii (closed)",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Choctaw Wikipedia (closed)",
+    "Language": "Choctaw",
+    "Script": "Latn",
+    "WP Code": "cho (closed)",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Marshallese Wikipedia (closed)",
+    "Language": "Marshallese",
+    "Script": "Latn",
+    "WP Code": "mh (closed)",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Cheyenne Wikipedia",
+    "Language": "Cheyenne",
+    "Script": "Latn",
+    "WP Code": "chy",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Ndonga Wikipedia (closed)",
+    "Language": "Ndonga",
+    "Script": "Latn",
+    "WP Code": "ng (closed)",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kuanyama Wikipedia (closed)",
+    "Language": "Kuanyama",
+    "Script": "Latn",
+    "WP Code": "kj (closed)",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Hiri Motu Wikipedia (closed)",
+    "Language": "Hiri Motu",
+    "Script": "Latn",
+    "WP Code": "ho (closed)",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Muscogee Wikipedia (closed)",
+    "Language": "Muscogee",
+    "Script": "Latn",
+    "WP Code": "mus (closed)",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Kanuri Wikipedia (closed)",
+    "Language": "Kanuri",
+    "Script": "Latn",
+    "WP Code": "kr (closed)",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Afar Wikipedia (closed)",
+    "Language": "Afar",
+    "Script": "Latn",
+    "WP Code": "aa (closed)",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Herero Wikipedia (closed)",
+    "Language": "Herero",
+    "Script": "Latn",
+    "WP Code": "hz (closed)",
+    "Active users(log)": 0,
+    "Image": ""
+  },
+  {
+    "Wikipedia Name": "Sranan Tongo Wikipedia",
+    "Language": "Sranan Tongo",
+    "Script": "Latn",
+    "WP Code": "srn",
+    "Active users(log)": 0,
+    "Image": ""
+  }
+]
