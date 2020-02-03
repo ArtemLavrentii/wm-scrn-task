@@ -22,6 +22,5 @@ List of all wiki's languages was taken from https://en.wikipedia.org/wiki/List_o
 Data was parsed with <3 by https://wikitable2csv.ggor.de/ . 
 
 ## Small note
-By default only 10 hand-picked languages are displayed. To change this behaviour "mad-mode" could be turned on in the config. This is due to the fact that this FE always displays all possible languages, even when page isn't available in that language. This was done intentionally to be compliant with task definition. 
+By default only first 10 languages are displayed. To change this behaviour "mad-mode" could be turned on in the config. This is due to the fact that this FE always displays all possible languages, even when page isn't available in that language. This was done intentionally to be compliant with task definition. 
 
-curl -X GET "https://en.wikipedia.org/api/rest_v1/page/metadata/Douglas_Adams/938473770" -H "accept: application/json; charset=utf-8; profile="https://www.mediawiki.org/wiki/Specs/Metadata/1.2.0""
