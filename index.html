@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Article listing</title>
+    <style>
+        .field {
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<form id="article-chooser">
+    <div class="field">
+        <label>
+            Article Title:
+            <input name="article" type="text" id="articleTitle">
+        </label>
+    </div>
+    <div class="field">
+        <label>
+            Language:
+            <select name="lang" id="languages"></select>
+        </label>
+    </div>
+
+    <div class="field">
+        <input type="submit" value="Fetch" />
+    </div>
+</form>
+
+<div id="article-info"></div>
+
+</body>
+</html>
